@@ -26,4 +26,6 @@
 
 // En github crear repo remoto
 
-//
+// git remote add origin <link>
+
+// git remote  -v         enlistar repos remotos
