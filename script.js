@@ -23,3 +23,7 @@
 // git branch feature/<name>   crear nueva branch con convención feature (standard)
 
 /*==== TRABAJAR EN LA FEATURE ==== */
+
+// En github crear repo remoto
+
+//
