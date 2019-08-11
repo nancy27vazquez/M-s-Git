@@ -29,3 +29,7 @@
 // git remote add origin <link>
 
 // git remote  -v         enlistar repos remotos
+
+// EN github, pull request HACIA DEVELOPMENT
+
+// END
